@@ -1,0 +1,246 @@
+{
+    "Categories" : {
+        "Piggy Bedspreads" : {
+            "Subcategories" : {
+                "Cutting": [
+                    "Ferret Nation Double",
+                    "Ferret Nation Single",
+                    "2x3 Piggy Bedspread",
+                    "2x3.5 Piggy Bedspread",
+                    "2x4 Piggy Bedspread",
+                    "2x5 Piggy Bedspread",
+                    "2x6 Piggy Bedspread",
+                    "2x2 Loft Spread",
+                    "1x2 Loft Spread",
+                    "Cozy Cocoon Single",
+                    "Cozy Cocoon Double",
+                    "Cozy Tunnel",
+                    "Piggy Lap Pad",
+                    "Piggy Potty Pad Small",
+                    "Piggy Potty Pad Large",
+                    "Piggy Potty Pad Small Abs",
+                    "Piggy Potty Pad Large Abs",
+                    "Litter Box Small",
+                    "Litter Box Large",
+                    "Hay Cafe Single",
+                    "Hay Cafe Double",
+                    "Hay Rack",
+                    "Fabric by Yard",
+                    "Ramps",
+                    "Midwest Liner",
+                    "2x4 Cage Mate",
+                    "2x5 Cage Mate",
+                    "2x6 Cage Mate",
+                    "Large Hagen",
+                    "XL Hagen"
+                ],
+                "Assembly": [
+                    "Ferret Nation Double",
+                    "Ferret Nation Single",
+                    "Ferret Nation Double Abs",
+                    "Ferret Nation Single Abs",
+                    "Ferret Nation Ramps (Tag #)",
+                    "2x3 Piggy Bedspread",
+                    "2x3.5 Piggy Bedspread",
+                    "2x4 Piggy Bedspread",
+                    "2x5 Piggy Bedspread",
+                    "2x6 Piggy Bedspread",
+                    "2x2 Loft Spread",
+                    "1x2 Loft Spread",
+                    "Cozy Cocoon Single",
+                    "Cozy Cocoon Double",
+                    "Cozy Tunnel",
+                    "Piggy Lap Pad",
+                    "Piggy Potty Pad Small",
+                    "Piggy Potty Pad Large",
+                    "Piggy Potty Pad Small Abs",
+                    "Piggy Potty Pad Large Abs",
+                    "Litter Box Small",
+                    "Litter Box Large",
+                    "Hay Cafe Single",
+                    "Hay Cafe Double",
+                    "Midwest Liner",
+                    "2x4 Cage Mate",
+                    "2x5 Cage Mate",
+                    "2x6 Cage Mate",
+                    "Piggy Playpen Abs",
+                    "Piggy Playpen",
+                    "Large Hagen",
+                    "XL Hagen"
+                ]
+            }
+        },
+        "Coddled Canine" : {
+            "Subcategories" : {
+                "Shipping": [
+                    "Normal order"
+                ],
+                "Inventory": [
+                    "Updating web inventory",
+                    "Counting inventory"
+                ],
+                "Website": [
+                    "Development",
+                    "Styling",
+                    "Content Creation"
+                ],
+                "Marketing" : [
+                    "Research",
+                    "Planning",
+                    "Advertising Media"
+                ],
+                "Media" : [
+                    "Products",
+                    "Email",
+                    "YouTube"
+                ]
+            }
+        },
+        "DOTA 2" : {
+            "Subcategories" : {
+                "Matchmaking": [
+                    "Ranked Solo",
+                    "Ranked Party",
+                    "Unranked Solo",
+                    "Unranked Party"
+                ],
+                "Custom Games": [
+                    "Atomic War Solo",
+                    "Atomic War Party"
+                ]
+            }
+        },
+        "Food" : {
+            "Subcategories" : {
+                "Eating": [
+                    "Breakfast",
+                    "Lunch",
+                    "Dinner",
+                    "Snack",
+                    "Coffee"
+                ],
+                "Cooking": [
+                    "Breakfast",
+                    "Lunch",
+                    "Dinner",
+                    "Snack",
+                    "Coffee"
+                ],
+                "Eating Out": [
+                    "Drive-Thru",
+                    "Eating In",
+                    "Getting Takeout"
+                ]
+            }
+        },
+        "Exercise": {
+            "Subcategories" : {
+                "Sports": [
+                    "Pickleball",
+                    "Tennis",
+                    "Wrestling",
+                    "Jiu Jitsu",
+                    "Cycling",
+                    "Hiking"
+                ],
+                "Casual": [
+                    "Walk dogs",
+                    "Play with dogs",
+                    "Walk"
+                ]
+            }
+        },
+        "Rest" : {
+            "Subcategories" : {
+                "Sleep": [
+                    "Night sleep",
+                    "Morning nap",
+                    "Afternoon nap"
+                ]
+            }
+        },
+        "Entertainment": {
+            "Subcategories" : {
+                "TV Shows": [
+                    "Anime",
+                    "Netflix"
+                ],
+                "Online": [
+                    "YouTube Videos",
+                    "Twitch",
+                    "Douyu",
+                    "Podcasts"
+                ],
+                "Social Media": [
+                    "Twitter",
+                    "Facebook",
+                    "Tik Tok"
+                ]
+            }
+        },
+        "Learning": {
+            "Subcategories": {
+                "Subject Focused Learning": [
+                    "Python Course",
+                    "Chinese",
+                    "COVID-19"
+                ]
+            }
+        },
+        "Other Gaming": {
+            "Subcategories": {
+                "Commonly Played Games": [
+                    "Apex Legends - Arenas",
+                    "Apex Legends - Duos",
+                    "Apex Legends - Trios",
+                    "Minecraft - Survival"
+                ]
+            }
+        },
+        "Side Projects": {
+            "Subcategories": {
+                "Axie Infinity": [
+                    "Playing game",
+                    "Market analysis",
+                    "Programming"
+                ],
+                "LifeTimer": [
+                    "Programming",
+                    "Data analysis"
+                ]
+            }
+        },
+        "Driving": {
+            "Subcategories": {
+                "Daily Driving": [
+                    "Work drive",
+                    "Drive to Alex's",
+                    "Drive to Justin's",
+                    "Hiking drive",
+                    "Drive to Dad's",
+                    "Drive to Mom's",
+                    "Drive to Nana's",
+                    "Groceries"
+                ],
+                "Special Case Driving": [
+                    "Vacation trip",
+                    "Road trip",
+                    "Event drive",
+                    "Weekend trip"
+                ]
+            }
+        },
+        "Social": {
+            "Subcategories": {
+                "Family": [
+                    "Justin's",
+                    "My dad's",
+                    "My mom's",
+                    "Nana's",
+                    "Alex's",
+                    "Ab's Parents"
+                ]
+            }
+        }
+    }
+}

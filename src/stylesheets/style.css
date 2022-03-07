@@ -1,0 +1,257 @@
+body {
+    background-color: #E0E0E0;
+}
+.row {
+    margin-left:0;
+    margin-right:0;
+}
+.timerHeader {
+    background-color: rgba(0,0,0,1);
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: #757575 8px solid;
+}
+
+.pageContainer {
+    font-family: oxygen;
+    font-size: 20px;
+    border-top: #9E9E9E solid 4px;
+}
+.accountContainer {
+    margin-top: 4px;
+    margin-bottom: 6px;
+    margin-left: 8px;
+    width: 500px;
+    height: 50px;
+    border: 2px solid black;
+}
+#web3 {
+    background-color: #FAFAFA;
+    border-radius: 3px;
+    padding: 2px;
+}
+.web3row {
+    line-height: 18px;
+    font-size: 16px;
+    font-weight: 800;
+    text-align: center;
+}
+.web3Data {
+    margin-left: 4px;
+    margin-top: 2px;
+    display: inline-block;
+}
+#web3ID {
+    font-size: 12px;
+    display: inline-block;
+}
+#web3Balance {
+    font-size: 20px;
+}
+#check {
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+}
+.appContainer {
+    margin-left: 10px;
+}
+.tabs {
+    background-color: #9E9E9E;
+    padding-left: 20px;
+    border-bottom: 4px solid black;
+}
+.tabsPane {
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+.tabsPane:hover {
+    cursor: pointer;
+}
+.paneGroup {
+    display: flex;
+    align-items: center;
+    background-color: #616161;
+}
+.paneName {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.tabsPaneTrapezoidR {
+    border-top: 40px solid #9E9E9E;
+    border-left: 15px solid transparent;
+    height: 0px;
+    width: 0px;
+}
+.tabsPaneTrapezoidL {
+    border-top: 40px solid #9E9E9E;
+    border-right: 15px solid transparent;
+    width: 0px;
+}
+.pieChart {
+    width: 100%;
+    min-height: 300px;
+    border: 1px solid black;
+}
+#displayCharts {
+    background-color: #FAFAFA;
+    border-radius: 3px;
+    padding: 6px 3px 6px 3px;
+    position: relative;
+    display: inline-block;
+    border: black 1px solid;
+    margin-left: 10px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.dropdown {
+    background-color: #FAFAFA;
+    border-radius: 3px;
+    padding: 6px 3px 6px 3px;
+    position: relative;
+    display: inline-block;
+    border: black 1px solid;
+    margin-left: 2px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+.dropdown:hover {
+    cursor: pointer;
+}
+.dropdownText {
+    text-align: center;
+    width: 300px;
+    font-size: 24px;
+    color: black;
+    padding: 0px 3px 0px 3px;
+}
+.dropdownText img {
+    z-index: -1;
+    width: 15px;
+    height: auto;
+    margin-right: 3px;
+}
+.dropdownText div {
+    display: inline-block;
+}
+.dropdown > .dropdownOptions {
+    background-color: #fafafa;
+    margin: 6px 4px 0px 4px;
+    position: absolute;
+    height: 300px;
+    overflow-y: scroll;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+    width: 300px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    z-index: 1;
+    display: none;
+}
+.dropdown > .dropdownOptions > div {
+    display: block;
+    color: black;
+    font-size: 22px;
+    padding: 6px 3px 6px 6px;
+    border-radius: 1px;
+    border-top: 1px solid black;
+}
+.dropdown > .dropdownOptions > div:hover {
+    background-color: #F5F5F5;
+}
+.dropdown > .dropdownOptions > div:active {
+    background-color: #F5F5F5;
+}
+#dropdownVariations {
+    display: block;
+}
+.tagField {
+    background-color: #FAFAFA;
+    border-radius: 3px;
+    padding: 6px 3px 6px 3px;
+    position: relative;
+    display: inline-block;
+    border: black 1px solid;
+    margin-left: 2px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    width: 100px;
+}
+.tagField > input {
+    width: 100%;
+    padding: 2px;
+}
+.hiddenMenu {
+    display: none;
+}
+#edit {
+    background-color: #F44336;
+    font-weight: 800;
+    border-radius: 3px;
+    padding: 6px 8px 6px 8px;
+    position: relative;
+    display: inline-block;
+    border: black 1px solid;
+    margin-left: 6px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+.editChoice {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+[name='dropdownChoice'] {
+    display: inline-block;
+    min-width: 240px;
+}
+#editField {
+    display: inline-block;
+    width: 220px;
+    margin-right: 20px;
+}
+.doneEditing {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+.timerButtons {
+    text-align: center;
+    margin-top: 5px;
+}
+.timerButtons > img {
+    padding: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 80px;
+    height: 80px;
+}
+.timerButtons > img:hover {
+    cursor: pointer;
+    border: 0.5px solid black;
+    padding: 0px;
+}
+.timer {
+    margin-top: 10px;
+    margin-left: 2px;
+}
+.timerContainer {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.timer {
+    font-size: 40px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: #FAFAFA;
+    text-align: center;
+    padding: 5px;
+}
+.timerDesc {
+    padding-left: 5px;
+    border-left: 1px solid black;
+    border-bottom: 2px solid black;
+}
